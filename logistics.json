@@ -1,0 +1,52 @@
+{
+     "outputFlag": 1,
+     "destX": "-80.41331430532196",
+     "destY": "37.228854605157366",
+     "message": {
+          "Route 0": {
+               "destFull": "117 S Main St, Blacksburg, Virginia, 24060",
+               "routeCode": "SFVA",
+               "routeFC": "Route_SF_Delivery_Virginia_1",
+               "partnerCode": "SF",
+               "partnerName": "Sprouting Farms",
+               "aggDate": "Wed 06-15-2022",
+               "delivDate": "Fri 06-17-2022",
+               "distanceMessage": "This destination is greater than 5 miles from delivery route and is likely to incur extra charges.",
+               "capacity": "",
+               "partnerPOC": "Jane Doe",
+               "partnerPhone": "(555) 555-5555",
+               "partnerEmail": "mailme@jumbo.com",
+               "partnerAddress": "Turnrow A&D Hub, 804 Industrial Park Road, Maxwelton, WV, 24901"
+          },
+          "Route 1": {
+               "destFull": "117 S Main St, Blacksburg, Virginia, 24060",
+               "routeCode": "ASD_NR",
+               "routeFC": "Route_ASD_NorthRun",
+               "partnerCode": "ASD",
+               "partnerName": "Appalachian Sustainable Development",
+               "aggDate": "Fri 06-17-2022",
+               "delivDate": "Wed 06-15-2022",
+               "distanceMessage": "This destination is greater than 5 miles from delivery route and is likely to incur extra charges.",
+               "capacity": "",
+               "partnerPOC": "Jill Deal",
+               "partnerPhone": "(555) 555-5555",
+               "partnerEmail": "read@read.com",
+               "partnerAddress": "ASD, 280 Boone Trail Road, Duffield, VA 24244"
+          },
+          "Route 2": {
+               "destFull": "117 S Main St, Blacksburg, Virginia, 24060",
+               "routeCode": "ASD_NR",
+               "routeFC": "Route_ASD_NorthRun",
+               "partnerCode": "ASD",
+               "partnerName": "Appalachian Sustainable Development",
+               "aggDate": "Tue 06-14-2022",
+               "delivDate": "Wed 06-15-2022",
+               "distanceMessage": "This destination is greater than 5 miles from delivery route and is likely to incur extra charges.",
+               "capacity": "",
+               "partnerPOC": "Jill Deal",
+               "partnerPhone": "(555) 555-5555",
+               "partnerEmail": "read@read.com",
+               "partnerAddress": "ASD, 280 Boone Trail Road, Duffield, VA 24244"
+          }
+     }
+}
