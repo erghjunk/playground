@@ -3,7 +3,7 @@
      "destX": "-80.41331430532196",
      "destY": "37.228854605157366",
      "message": {
-          "Route 0": {
+          "Route0": {
                "destFull": "117 S Main St, Blacksburg, Virginia, 24060",
                "routeCode": "SFVA",
                "routeFC": "Route_SF_Delivery_Virginia_1",
@@ -18,7 +18,7 @@
                "partnerEmail": "mailme@jumbo.com",
                "partnerAddress": "Turnrow A&D Hub, 804 Industrial Park Road, Maxwelton, WV, 24901"
           },
-          "Route 1": {
+          "Route1": {
                "destFull": "117 S Main St, Blacksburg, Virginia, 24060",
                "routeCode": "ASD_NR",
                "routeFC": "Route_ASD_NorthRun",
@@ -33,7 +33,7 @@
                "partnerEmail": "read@read.com",
                "partnerAddress": "ASD, 280 Boone Trail Road, Duffield, VA 24244"
           },
-          "Route 2": {
+          "Route2": {
                "destFull": "117 S Main St, Blacksburg, Virginia, 24060",
                "routeCode": "ASD_NR",
                "routeFC": "Route_ASD_NorthRun",
